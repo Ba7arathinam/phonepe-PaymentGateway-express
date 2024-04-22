@@ -12,7 +12,7 @@ const MERCHANT_ID = "PGTESTPAYUAT";
 const PHONE_PE_HOST_URL = "https://api-preprod.phonepe.com/apis/pg-sandbox";
 const SALT_INDEX = 1;
 const SALT_KEY = "099eb0cd-02cf-4e2a-8aca-3e6c6aff0399";
-const APP_BE_URL = "http://localhost:8080";
+const APP_BE_URL = "https://balarathinam-phonepe-paymentgateway.onrender.com";
 
 // Enable CORS
 app.use(cors());
